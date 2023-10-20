@@ -2,6 +2,7 @@ void main() {
   String? middlename;
   String? firstString; // Nullable String
   String? secondString;
+  secondString = 'Kanyike Muhammad';
   firstString = 'hamza flutter dev';
 //the ?. operator
   // print(firstString.toLowerCase());
